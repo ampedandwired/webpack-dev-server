@@ -7,7 +7,7 @@
 		"webpack": "1.x"
 	},
 	"dependencies": {
-		"webpack-dev-middleware": "^1.0.7",
+		"webpack-dev-middleware": "ampedandwired/webpack-dev-middleware#serve_index_html",
 		"express": "^4.3.2",
 		"socket.io": "^0.9.17",
 		"optimist": "~0.6.0",
